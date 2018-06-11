@@ -2,10 +2,3 @@ spring:
   application:
     name: greeting-config
 
-registration:
-  server:
-    endpoint: http://registration-server
-  #cloud:
-    #config:
-      #fail-fast: true
-      #uri: https://config-18ce83ed-adbb-483f-9b8c-227f49d0d244.cfapps.io
